@@ -65,24 +65,20 @@
 </pre>
 # 代码
 ## index.html
-`
-<html>
-    <head>
-        <script src="main.js"></script>
-    </head>
-    <body>
-    </body>
-</html>
-`
+	<html>
+	    <head>
+	        <script src="main.js"></script>
+	    </head>
+	    <body>
+	    </body>
+	</html>
 
 ## main.js
-`
-var a = require('./a');
-var b = require('./b');
+	var a = require('./a');
+	var b = require('./b');
 
-a.doSth();
-b.doSth();
-`
+	a.doSth();
+	b.doSth();
 
 
 
