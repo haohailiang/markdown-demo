@@ -74,17 +74,7 @@
     </body>
 </html>
 `
-<pre>
-`
-<html>
-    <head>
-        <script src="main.js"></script>
-    </head>
-    <body>
-    </body>
-</html>
-`
-</pre>
+
 ## main.js
 `
 var a = require('./a');
@@ -93,15 +83,7 @@ var b = require('./b');
 a.doSth();
 b.doSth();
 `
-<pre>
-`
-var a = require('./a');
-var b = require('./b');
 
-a.doSth();
-b.doSth();
-`
-</pre>
 
 
 
