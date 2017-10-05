@@ -45,11 +45,11 @@
 [baidu](https://www.baidu.com)
 <pre>[baidu](https://www.baidu.com)</pre>
 # 粗体
-** 粗体 **
-<pre>** 粗体 **</pre>
+**粗体**
+<pre>**粗体**</pre>
 # 斜体
-* 斜体 * 
-<pre>* 斜体 * </pre>
+*斜体* 
+<pre>*斜体* </pre>
 # 表格
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
