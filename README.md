@@ -68,8 +68,10 @@
 ![alt](URL title)
 ```
 # 插入链接
-[baidu](https://www.baidu.com)
-<pre>[baidu](https://www.baidu.com)</pre>
+[baidu](https://www.baidu.com "我是百度")
+```
+[baidu](https://www.baidu.com "我是百度")
+```
 # 粗体
 **粗体**
 <pre>**粗体**</pre>
