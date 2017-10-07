@@ -87,7 +87,7 @@
 | zebra stripes | are neat      |    $1 |
 </pre>
 # 代码高亮
-## index.html
+## index.html[html]
 ```html
 <html>
     <head>
@@ -97,7 +97,7 @@
     </body>
 </html>
 ```
-## main.js
+## main.js[javascript]
 ```javascript
 var a = require('./a');
 var b = require('./b');
@@ -105,25 +105,25 @@ var b = require('./b');
 a.doSth();
 b.doSth();//javascript
 ```
-## css
+## css[css]
 ```css
 body{
 	background:teal;
 }
 ```
-## Java
+## Java[Java]
 ```Java
 public static void main(String[]args){} //Java
 ```
-## c
+## c[c]
 ```c
 int main(int argc, char *argv[]) //C
 ```
-## Bash
+## Bash[Bash]
 ```Bash
 echo "hello GitHub" #Bash
 ```
-## cpp
+## cpp[cpp]
 ```cpp
 string &operator+(const string& A,const string& B) //cpp
 ```
