@@ -72,6 +72,8 @@
 ```
 [baidu](https://www.baidu.com "我是百度")
 ```
+# 本仓库的链接
+[我的简介](/example/profile.md)
 # 粗体
 **粗体**
 <pre>**粗体**</pre>
