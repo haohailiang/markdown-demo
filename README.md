@@ -196,6 +196,12 @@ string &operator+(const string& A,const string& B) //cpp
 - [x] 选中
 - [ ] 未选中
 - [ ] 未选中
+```
+- [x] 选中
+- [x] 选中
+- [ ] 未选中
+- [ ] 未选中
+```
 # 图标
 :closed_book:
 
