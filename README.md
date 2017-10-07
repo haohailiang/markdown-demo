@@ -191,6 +191,11 @@ string &operator+(const string& A,const string& B) //cpp
 可以在上一行文本后面补两个空格，  
 这样下一行的文本就换行了。
 ```
+# 复选框列表
+[x] 选中
+[x] 选中
+[ ] 未选中
+[ ] 未选中
 # 图标
 :closed_book:
 
