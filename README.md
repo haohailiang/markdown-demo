@@ -202,6 +202,11 @@ string &operator+(const string& A,const string& B) //cpp
 - [ ] 未选中
 - [ ] 未选中
 ```
+# 表情
+Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。  
+比如`:blush:`，可以显示:blush:。  
+具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。  
+大家可以直接在此查看[emoji](./emoji/emoji.md)。
 # 图标
 :closed_book:
 
