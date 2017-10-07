@@ -24,6 +24,7 @@
 * 2
 * 3
 </pre>
+# 锚点地址
 ## 空心原点
 * 实心1
 * 实心2
@@ -53,6 +54,13 @@
 <pre>
 > 这里是引用
 </pre>
+# 锚点
+[锚点文本](#锚点地址)
+```
+[锚点文本](#锚点地址)
+...
+# 锚点地址
+```
 # 图片
 ![小狗狗](https://avatars2.githubusercontent.com/u/26648209?v=4&s=400&u=4108ba0a850f9f390a449b40629651a8e31d05cd)
 <pre>![小狗狗](https://avatars2.githubusercontent.com/u/26648209?v=4&s=400&u=4108ba0a850f9f390a449b40629651a8e31d05cd)</pre>
