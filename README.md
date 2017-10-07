@@ -86,9 +86,9 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 </pre>
-# 代码
+# 代码高亮
 ## index.html
-```
+```html
 <html>
     <head>
         <script src="main.js"></script>
@@ -98,12 +98,29 @@
 </html>
 ```
 ## main.js
-```
+```javascript
 var a = require('./a');
 var b = require('./b');
 
 a.doSth();
-b.doSth();
+b.doSth();//javascript
+```
+```css
+body{
+	background:teal;
+}
+```
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub" #Bash
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
 ```
 # 粗分界线
 ****
