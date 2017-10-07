@@ -74,6 +74,17 @@
 ```
 # 本仓库的链接
 [我的简介](/example/profile.md)
+
+#图片链接
+[![csdn-logo]][csdn-link]  
+[![csdn-logo]][csdn-link2]
+```
+[![csdn-logo]][csdn-link]  
+[![csdn-logo]][csdn-link2]
+[csdn-logo]:/img/csdn.png "我的CSDN博客logo-title"
+[csdn-link]:http://blog.csdn.net/guodongxiaren "我的博客link-title"
+[csdn-link2]:/example/profile.md "我的简介link-title"
+```
 # 粗体
 **粗体**
 <pre>**粗体**</pre>
@@ -180,7 +191,9 @@ string &operator+(const string& A,const string& B) //cpp
 
 
 
-
-
+-----------------
+[csdn-logo]:/img/csdn.png "我的CSDN博客logo-title"
+[csdn-link]:http://blog.csdn.net/guodongxiaren "我的博客link-title"
+[csdn-link2]:/example/profile.md "我的简介link-title"
 
 
